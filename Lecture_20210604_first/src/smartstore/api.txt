@@ -1,0 +1,25 @@
+
+-내가 입력할것-
+-MIN_age:-integer
+-MAX_age:integer
+-gender: String
+-area: String
+-one_time: String
+
+--고객용-
+-age: integer
+-gender: String
+-area:String
+-one_time:String
+
+-사용할 클래스
+
+	----프로젝트 개발 과정
+	
+	1.설계 및 기능 구현
+	2.내부 구조 개선(리펙토링)
+     java style guide 	
+	3.예외처리
+	4.테스트
+	
+	
