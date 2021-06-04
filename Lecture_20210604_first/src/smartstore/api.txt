@@ -1,18 +1,7 @@
+	2021_0604 프로젝트 완성
+	현재 예외 처리가 안되있는 상태이며 초본이다
 
--내가 입력할것-
--MIN_age:-integer
--MAX_age:integer
--gender: String
--area: String
--one_time: String
 
---고객용-
--age: integer
--gender: String
--area:String
--one_time:String
-
--사용할 클래스
 
 	----프로젝트 개발 과정
 	
