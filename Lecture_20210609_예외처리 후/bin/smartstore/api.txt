@@ -1,0 +1,33 @@
+
+-내가 입력할것-
+-MIN_age:-integer
+-MAX_age:integer
+-gender: String
+-area: String
+-one_time: String
+
+--고객용-
+-age: integer
+-gender: String
+-area:String
+-one_time:String
+
+-사용할 클래스
+
+	----프로젝트 개발 과정
+	
+	1.설계 및 기능 구현
+	2.내부 구조 개선(리펙토링)
+     java style guide 	
+	3.예외처리
+	4.테스트
+	
+	물어볼것 
+	
+		메인함수가 아닌 새로 만든 클래스 안의 클래스에 try 문을 넣을수 있을까요? 
+		--간략화 프린트용 함수를 따로만들고 보내는것만 있는 함수를 만들어 구분하자 
+		--그래야 트라이 문을 넣을수 있음! 
+		-- chose_in안에 if ==2 안에 같이 구현 하지말고 따로 구현하자! 
+		변수이름에 ex)chooseset 같은경우, -> chooseSet 으로 하자 !
+	
+	
